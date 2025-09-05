@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushant Koirala  
 
-<!--
-**koirala98/koirala98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Science student @ University of Louisiana at Monroe  
+🔐 Cybersecurity Enthusiast | Full-Stack Developer | Cloud Explorer  
+🌍 Passionate about secure systems, networking, and building smart tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Hands-on with **network security, cloud deployment, and secure full-stack apps**  
+- 🛠️ IT Helpdesk Technician @ ULM Computing Center – resolved 800+ monthly tickets, deployed secure configs  
+- 📚 Programming Tutor – taught Java, Python, and Data Structures (helped peers boost scores by 20%)  
+- 🛰️ Exploring cybersecurity for aerospace systems as an independent study  
+- 🏆 AWS Certified | CompTIA Security+ | Certified Space Security Specialist (CSSSP)  
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+🔹 [Secure Task Management App](https://github.com/yourusername/secure-task-manager)  
+🔹 [Cybersecurity Network Lab](https://github.com/yourusername/cybersecurity-network-lab)  
+🔹 [Network Packet Analyzer](https://github.com/yourusername/network-packet-analyzer)  
+🔹 [Algorithm Visualizer](https://github.com/yourusername/algorithm-visualizer)  
+🔹 [Cloud Deployment Demo](https://github.com/yourusername/cloud-deployment-demo)  
+🔹 [Rap Lyric Generator 🎵](https://github.com/yourusername/rap-lyric-generator)  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me
+📧 [koiralasushant12@gmail.com](mailto:koiralasushant12@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/sushant-koirala-71b589252)  
+
+---
+⭐️ *Securing systems. Building solutions. Always learning.*  
