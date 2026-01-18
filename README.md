@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 💻 Hands-on with **network security, cloud deployment, and secure full-stack apps**  
-- 🛠️ IT Helpdesk Technician @ ULM Computing Center – resolved 800+ monthly tickets, deployed secure configs
 - 🛰️ Exploring cybersecurity for aerospace systems as an independent study  
 - 🏆 AWS Certified  | Certified Space Security Specialist (CSSSP)  
 
