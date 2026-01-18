@@ -8,10 +8,9 @@
 
 ## 🚀 About Me
 - 💻 Hands-on with **network security, cloud deployment, and secure full-stack apps**  
-- 🛠️ IT Helpdesk Technician @ ULM Computing Center – resolved 800+ monthly tickets, deployed secure configs  
-- 📚 Programming Tutor – taught Java, Python, and Data Structures (helped peers boost scores by 20%)  
+- 🛠️ IT Helpdesk Technician @ ULM Computing Center – resolved 800+ monthly tickets, deployed secure configs
 - 🛰️ Exploring cybersecurity for aerospace systems as an independent study  
-- 🏆 AWS Certified | CompTIA Security+ | Certified Space Security Specialist (CSSSP)  
+- 🏆 AWS Certified  | Certified Space Security Specialist (CSSSP)  
 
 ---
 
