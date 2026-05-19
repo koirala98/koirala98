@@ -27,18 +27,18 @@
 ---
 
 ## 📌 Featured Projects
-🔹 [Secure Task Management App](https://github.com/yourusername/secure-task-manager)  
-🔹 [Cybersecurity Network Lab](https://github.com/yourusername/cybersecurity-network-lab)  
-🔹 [Network Packet Analyzer](https://github.com/yourusername/network-packet-analyzer)  
-🔹 [Algorithm Visualizer](https://github.com/yourusername/algorithm-visualizer)  
-🔹 [Cloud Deployment Demo](https://github.com/yourusername/cloud-deployment-demo)  
-🔹 [Rap Lyric Generator 🎵](https://github.com/yourusername/rap-lyric-generator)  
+🔹 [Secure Task Management App](https://github.com/koirala98/secure-task-manager)  
+🔹 [Cybersecurity Network Lab](https://github.com/koirala98/cybersecurity-network-lab)  
+🔹 [Network Packet Analyzer](https://github.com/koirala98/network-packet-analyzer)  
+🔹 [Algorithm Visualizer](https://github.com/koirala98/algorithm-visualizer)  
+🔹 [Cloud Deployment Demo](https://github.com/koirala98/cloud-deployment-demo)  
+🔹 [Rap Lyric Generator 🎵](https://github.com/koirala98/rap-lyric-generator)  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=koirala98&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koirala98&layout=compact&theme=radical)  
 
 ---
 
