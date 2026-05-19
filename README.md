@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushant Koirala  
 
-🎓 Senior Computer Science student @ University of Louisiana at Monroe  
+🎓 Computer Science Graduate From University of Louisiana at Monroe  
 🔐 Cybersecurity Enthusiast | Full-Stack Developer | Cloud Explorer  
 🌍 Passionate about secure systems, networking, and building smart tech  
 
